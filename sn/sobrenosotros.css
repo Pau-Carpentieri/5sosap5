@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+footer ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+
+footer ul li i
+{
+font-size: 40px;
+padding-inline-end: 30px;
+margin-right: 20px;
+
+}
+.parrafo{
+font-family: 'Poppins', sans-serif;
+margin-left: 30px;
+}
+.d1{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+
+.d2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.nav-link{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+
+}
+footer a{
+    color: #212529;
+}
+footer a:hover{
+    color:white
+}
